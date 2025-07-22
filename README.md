@@ -3,7 +3,36 @@
 > A modern Smart Store management system built with **ASP.NET Core MVC 8** and **Entity Framework Core (Code-First)**.  
 > Clean admin UI to manage categories 🏷️ and products 📦 with full CRUD operations.
 
+## 📁 Project Folder Structure
 
+Smart-Store-CodeFirst-EF-MVC8/
+│
+├── Controllers/
+│ ├── CategoryController.cs
+│ └── ProductController.cs
+│
+├── Models/
+│ ├── Category.cs
+│ ├── Product.cs
+│ └── StoreDbContext.cs
+│
+├── Views/
+│ ├── Category/
+│ ├── Product/
+│ └── Shared/
+│ └── _Layout.cshtml
+│
+├── wwwroot/
+│ └── Screenshots/
+│ ├── DashBoard.png
+│ └── ProductList.png
+│
+├── appsettings.json
+├── Program.cs
+├── Startup.cs
+└── README.md
+
+ 
 ## 🚀 Tech Stack
 
 - ✅ ASP.NET Core MVC 8  
@@ -46,11 +75,15 @@ Press F5 or click the green ▶️ "Run" button in Visual Studio.
 
 
 👨‍🎓 Author
+
 Onkar Shinde
+
 📧 onkarshinde2307@gmail.com
+
 🔗 GitHub Profile
 
 📝 License
+
 This project is licensed under the MIT License.
 
 📌 Built as part of a learning journey using .NET Core 8 MVC & EF Core. Happy Coding!
