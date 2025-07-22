@@ -50,20 +50,20 @@ Smart-Store-CodeFirst-EF-MVC8/
 ## 🧑‍💻 Getting Started
 
 1. **Clone the repository:**
-
-
+2. 
 git clone https://github.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8.git
+
 Open in Visual Studio 2022+
 
 Apply EF Core Migrations:
 
-Add-Migrations
+-Add-Migrations
 
-Update-Database
+--Update-Database
 
 Run the Project:
 
-Press F5 or click the green ▶️ "Run" button in Visual Studio.
+-Press F5 or click the green ▶️ "Run" button in Visual Studio.
 
 ## 📸 Screenshots
 
@@ -76,16 +76,14 @@ Press F5 or click the green ▶️ "Run" button in Visual Studio.
 
 👨‍🎓 Author
 
-Onkar Shinde
-
-📧 onkarshinde2307@gmail.com
-
-🔗 GitHub Profile
+-Onkar Shinde
+-📧 onkarshinde2307@gmail.com
+-🔗 GitHub Profile
 
 
 📝 License
 
-This project is licensed under the MIT License.
+-This project is licensed under the MIT License.
 
 📌 Built as part of a learning journey using .NET Core 8 MVC & EF Core. Happy Coding!
 
