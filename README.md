@@ -73,14 +73,14 @@ Update-Database
 ![Product List](https://raw.githubusercontent.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8/main/Smart-Store-CodeFirst-EF-MVC8/wwwroot/Screenshots/Listofproducts.png)
 
 
-👨‍🎓 Author
+## 👨‍🎓 Author
 
 -Onkar Shinde
 -📧 onkarshinde2307@gmail.com
 -🔗 GitHub Profile
 
 
-📝 License
+## 📝 License
 
 -This project is licensed under the MIT License.
 
