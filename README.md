@@ -5,32 +5,28 @@
 
 ## 📁 Project Folder Structure
 
-Smart-Store-CodeFirst-EF-MVC8/
-│
-├── Controllers/
-│ ├── CategoryController.cs
-│ └── ProductController.cs
-│
-├── Models/
-│ ├── Category.cs
-│ ├── Product.cs
-│ └── StoreDbContext.cs
-│
-├── Views/
-│ ├── Category/
-│ ├── Product/
-│ └── Shared/
-│ └── _Layout.cshtml
-│
-├── wwwroot/
-│ └── Screenshots/
-│ ├── DashBoard.png
-│ └── ProductList.png
-│
-├── appsettings.json
-├── Program.cs
-├── Startup.cs
+Smart-Store-CodeFirst-EF-MVC8/  
+├── Controllers/  
+│   ├── CategoryController.cs  
+│   └── ProductController.cs  
+├── Models/  
+│   ├── Category.cs  
+│   ├── Product.cs  
+│   └── StoreDbContext.cs  
+├── Views/  
+│   ├── Category/  
+│   ├── Product/  
+│   └── Shared/  
+│       └── _Layout.cshtml  
+├── wwwroot/  
+│   └── Screenshots/  
+│       ├── DashBoard.png  
+│       └── ProductList.png  
+├── appsettings.json  
+├── Program.cs  
+├── Startup.cs  
 └── README.md
+
 
  
 ## 🚀 Tech Stack
