@@ -63,11 +63,14 @@ Press F5 or click the green ▶️ "Run" button in Visual Studio.
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🖥️ Dashboard Preview  
-![Dashboard](https://raw.githubusercontent.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8/main/wwwroot/Screenshots/DashBoard.png)
+![Dashboard](https://raw.githubusercontent.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8/main/Smart-Store-CodeFirst-EF-MVC8/wwwroot/Screenshots/DashBoard.png)
 
 ### 📦 Product List  
-![Product List](https://raw.githubusercontent.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8/main/wwwroot/Screenshots/Listofproducts.png)
+![Product List](https://raw.githubusercontent.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8/main/Smart-Store-CodeFirst-EF-MVC8/wwwroot/Screenshots/Listofproducts.png)
+
 
 
 👨‍🎓 Author
