@@ -36,10 +36,14 @@ Update-Database
 Run the Project:
 Press F5 or click the green ▶️ "Run" button in Visual Studio.
 
-📸 Screenshots
-🖥️ Dashboard Preview
+## 📸 Screenshots
 
-📦 Product List
+### 🖥️ Dashboard Preview  
+![Dashboard](https://raw.githubusercontent.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8/main/Smart-Store-CodeFirst-EF-MVC8/wwwroot/Screenshots/DashBoard.png)
+
+### 📦 Product List  
+![Product List](https://raw.githubusercontent.com/onkarshinde2307/-Smart_Store_EFCodeFirst_MVC8/main/Smart-Store-CodeFirst-EF-MVC8/wwwroot/Screenshots/Listofproducts.png)
+
 
 👨‍🎓 Author
 Onkar Shinde
